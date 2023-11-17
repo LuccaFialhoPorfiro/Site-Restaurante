@@ -1,0 +1,195 @@
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+
+.artcles{
+    width:90%;
+    height: auto;
+    margin: auto;
+}
+
+html{
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+body{
+    background-color: brown;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+header{
+  width: 100%;
+  height: 125px;
+  background-color: rgb(238, 30, 30);
+  border: 2px solid black;
+  border-bottom-width: 10px;
+  border-radius: 25px;
+  font-size: 70px;
+  text-align: center;
+  font-style: italic;
+  color: black;
+}
+
+aside{
+    width: 20%;
+    height: 600px;
+    background-color: rgb(238, 30, 30);
+    border: 2px solid black;
+    border-radius: 20px;
+    border-bottom-width: 10px;
+    padding-right: 5px;
+    position: absolute;
+    top: 150px;
+    right: 1200px;
+    font-size: 21px;
+    text-align: center;
+    font-style: italic;
+}  
+
+
+section{
+    display: block;
+    width: 20%;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 20px;
+    border-bottom-width: 10px;
+    padding-left: 5px;
+    background-color:rgb(238, 30, 30);
+    position: absolute;
+    top: 150px;
+    left: 1200px;
+    font-style: bold;
+    text-align: center;
+}
+
+.principal{
+    width: 55%;
+    height: 600px;
+    background-color: rgb(238, 30, 30);
+    position: absolute;
+    top: 150px;
+    left: 342px;
+    border: 2px solid black;
+    border-radius: 20px;
+    border-bottom-width: 10px;
+}
+
+li:hover{
+    background-color: black;
+    color: rgb(238, 30, 30);
+    border-radius: 20px;
+}
+
+footer{
+    width: 100%;
+    height: 170px;
+    background-color: rgb(238, 30, 30);
+    border: 2px solid black;
+    border-bottom-width: 10px;
+    border-radius: 25px;
+    font-size: 70px;
+    text-align: center;
+    font-style: italic;
+    color: black;
+    position: absolute;
+    bottom: -10px;
+}
+
+.menu{
+    position: absolute;
+    top: 2px;
+}
+
+.icone{
+    width: 100%;
+    height: 50%;
+    float: right;
+    border-radius: 100%;
+    outline-style: solid;
+    outline-width: 10px;
+    outline-color: black;
+    align-items: center;
+    overflow: hidden;
+    display: block;
+}
+
+.informacoes{
+    background-color: white;
+    font-size: 30px;
+    height: 140px;
+    width: 250px;
+    text-align: center;
+    position: absolute;
+    right: 3%;
+    margin-top: 30%;
+    border-radius: 20px;
+    border: 2px solid black;
+    border-bottom-width: 10px;
+    position: absolute;
+    bottom: 100px;
+    right: 26px;
+}
+
+.informacoes:hover{
+    background-color: black;
+    color: rgb(238, 30, 30);
+}
+
+.icon1{
+    position: absolute;
+    top: 15px;
+    left:   10px;
+}
+
+.icon2{
+    position: absolute;
+    top: 15px;
+    left: 130px;
+}
+
+.icon3{
+    position: absolute;
+    left: 400px;
+}
+.icon4{
+    position: absolute;
+    left: 100px;
+}
+
+.icon5{
+    position: absolute;
+    left: 730px;
+}
+
+.icon6{
+    position: absolute;
+    left: 1145px;
+}
+
+.icon7{
+    position: absolute;
+    top: 15px;
+    left: 280px;
+}
+
+.icon8{
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}
+
+.icon9{
+    position: absolute;
+    top: 15px;
+    right: 150px;
+}
